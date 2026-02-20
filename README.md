@@ -1,2 +1,2 @@
-# MonBazouMP
-An attempt at making a Multiplayer mod for Mon bazou
+# MonBazouMP - Server component
+This is the server component for MonBazouMP
